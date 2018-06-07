@@ -1,0 +1,23 @@
+{
+  "name": "fewgo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "debug": "electron %NODE_DEBUG_OPTION% ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Royal-Chan/FewGo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Royal-Chan/FewGo/issues"
+  },
+  "homepage": "https://github.com/Royal-Chan/FewGo#readme",
+  "dependencies": {
+    "electron": "^2.0.2"
+  }
+}
